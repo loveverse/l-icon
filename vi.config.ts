@@ -4,5 +4,8 @@ export default defineConfig({
   name: 'i-icons',
   namespace: 'i',
   fontFamilyClassName: 'i',
-  output: './svg-fonts'
+  output: './svg-fonts',
+  generate: {
+    framework: 'react'
+  }
 })

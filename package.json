@@ -1,8 +1,7 @@
 {
-  "name": "l-icons",
+  "name": "love-icons",
   "version": "1.0.0",
   "type": "module",
-
   "description": "A icons library starter",
   "keywords": [
     "svg",

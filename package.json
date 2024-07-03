@@ -1,8 +1,8 @@
 {
   "name": "l-icons",
-  "version": "1.0.0-alpha.1719909560518",
+  "version": "1.0.0",
   "type": "module",
-  "author": "haoziqaq <357229046@qq.com>",
+
   "description": "A icons library starter",
   "keywords": [
     "svg",
@@ -56,13 +56,6 @@
     "release": "pnpm icons && vr release",
     "format": "prettier --write .",
     "bump": "pnpm update @varlet/* --latest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/varletjs/varlet-icons-library-starter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/varletjs/varlet-icons-library-starter/issues"
   },
   "peerDependencies": {
     "unplugin-vue-components": "^0.27.0",
